@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/aws
 
+## 0.14.4
+
+### Patch Changes
+
+- 2510e2a7: Adds support for additional usage types
+
 ## 0.14.3
 
 ### Patch Changes
