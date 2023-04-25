@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/gcp
 
+## 0.12.0
+
+### Minor Changes
+
+- efbcad00: Adds support for including tags and labels in queries via config
+
 ## 0.11.1
 
 ### Patch Changes

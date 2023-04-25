@@ -1,5 +1,14 @@
 # @cloud-carbon-footprint/app
 
+## 1.2.1
+
+### Patch Changes
+
+- Updated dependencies [2510e2a7]
+- Updated dependencies [efbcad00]
+  - @cloud-carbon-footprint/aws@0.14.4
+  - @cloud-carbon-footprint/gcp@0.12.0
+
 ## 1.2.0
 
 ### Minor Changes
