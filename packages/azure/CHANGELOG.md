@@ -1,5 +1,16 @@
 # @cloud-carbon-footprint/azure
 
+## 1.3.0
+
+### Minor Changes
+
+- b98fd6d1: updates azure recs to support skuchange
+
+### Patch Changes
+
+- Updated dependencies [65386330]
+  - @cloud-carbon-footprint/core@0.17.3
+
 ## 1.2.0
 
 ### Minor Changes

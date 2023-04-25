@@ -1,5 +1,19 @@
 # @cloud-carbon-footprint/app
 
+## 1.2.1
+
+### Patch Changes
+
+- 65386330: bumps ramda dependency
+- Updated dependencies [2510e2a7]
+- Updated dependencies [efbcad00]
+- Updated dependencies [56273914]
+- Updated dependencies [65386330]
+- Updated dependencies [b98fd6d1]
+  - @cloud-carbon-footprint/aws@0.14.4
+  - @cloud-carbon-footprint/gcp@0.12.0
+  - @cloud-carbon-footprint/azure@1.3.0
+
 ## 1.2.0
 
 ### Minor Changes
